@@ -7,4 +7,4 @@ All Coding Time Since {Apr 16 2024}
 
 - :e-mail: | [tarikdahhane [at] hotmail [dot] com](mailto:tarikdahhane@hotmail.com) | Mail
 - :blue_book: | [Portfolio](https://zibounne.github.io/Portfolio/) | Portfolio
-- :pager: | [CodeWars | Algorithmie](https://www.codewars.com/users/Zibounne)
+- :pager: | [CodeWars | Algorithmie](https://www.codewars.com/users/Zibounne) | CodeWars | Algorithmie
