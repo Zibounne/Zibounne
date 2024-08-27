@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a passionate **web developer full stack** who loves 
 🌱 Currently working on projects involving **Angular**, **Symfony**, and other exciting technologies.<br>
 🛠 Always looking to take on new **challenges** and learn exciting technologies.<br>
 🎯 My goal: master best practices in development and continually push my limits.
-Feel free to connect with me via **Gmail** ✉️, or check out my **Portfolio**📘!
+Feel free to contact with me via **Gmail**(mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my **Portfolio**(https://zibounne.github.io/Portfolio/)📘!
 
 🚀 Let's code something awesome together!
 
