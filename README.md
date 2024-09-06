@@ -25,3 +25,5 @@ I am also working on improving my **English** skills, as I believe mastering com
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://zibounne.github.io/Portfolio/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarik.dahhane.pro@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarik-dahhane-0777b3313)  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Zibounne)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zibounne&show_icons=true&theme=radical)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zibounne&theme=radical)
