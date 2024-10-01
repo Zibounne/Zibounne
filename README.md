@@ -9,6 +9,11 @@ Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com)
 
 🚀 Let's code something awesome together!
 
+## Cybersecurity 🛡️
+I’m a beginner in **cybersecurity**, currently undergoing training to build a strong foundation in this field. I’m passionate about learning how to **secure systems** and **networks** from potential threats, and I am constantly gaining hands-on experience through various projects and coursework. My current focus is on mastering core security principles, exploring **ethical hacking**, and enhancing my knowledge in network security.
+
+I’m excited to continue growing in this field and look forward to contributing to a more **secure** digital world.
+
 ## Algorithms 📟
 One of my favorite activities is tackling **algorithmic** challenges on platforms like **Codewars**. I love working on algorithms and sharpening my problem-solving skills. This continuous practice helps me grow as a developer and keeps me sharp for tackling complex problems in my projects.
 
