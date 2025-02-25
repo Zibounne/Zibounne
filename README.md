@@ -1,32 +1,24 @@
 # Hi there 👋
 
-Welcome to my GitHub! I’m a passionate learner who loves continuous growth and **solving complex challenges** through code, including in the field of **cybersecurity**. My goal is to create solutions that blend creativity, efficiency, and security while constantly improving my skills. I dedicate my time to exploring **new technologies**, learning about **cybersecurity**, and contributing to **open-source** projects.
+Welcome to my GitHub!🚀 I’m a passionate learner who loves continuous growth and **solving complex challenges** through code, including in the field of **web**. My goal is to create solutions that blend creativity, efficiency, and security while constantly improving my skills. I dedicate my time to exploring **new technologies**, and contributing to **open-source** projects.
 
-🌱 Currently working on **cybersecurity** projects, gaining knowledge and expertise in securing systems and networks.<br>
+🌱 Currently working on **web** projects, gaining knowledge and expertise in web.<br>
 🛠 Always looking to take on new **challenges** and learn exciting technologies.<br>
 🎯 My goal: master best practices in development and continually push my limits.
 Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📘!
 
 🚀 Let's code something awesome together!
 
-## Cybersecurity 🛡️
-I’m a beginner in **cybersecurity**, currently undergoing training to build a strong foundation in this field. I’m passionate about learning how to **secure systems** and **networks** from potential threats, and I am constantly gaining hands-on experience through various projects and coursework. My current focus is on mastering core security principles, exploring **ethical hacking**, and enhancing my knowledge in network security.
+## Full Stack Web Developer 💻
+As a **Full Stack Web Developer**, I specialize in building dynamic, efficient, and scalable web applications. I have experience working with technologies such as Angular, NestJS, and others to develop end-to-end solutions that are both visually appealing and high-performing.
 
-I’m excited to continue growing in this field and look forward to contributing to a more **secure** digital world.
+I’m always looking to deepen my expertise in web development, and I continuously explore new frameworks, libraries, and methodologies to stay at the cutting edge of the industry.
 
 ## Algorithms 📟
 One of my favorite activities is tackling **algorithmic** challenges on platforms like **Codewars**. I love working on algorithms and sharpening my problem-solving skills. This continuous practice helps me grow as a developer and keeps me sharp for tackling complex problems in my projects.
 
-## Junior Full Stack Web Developer 💻
-As a **Junior Full Stack Web Developer**, I specialize in building dynamic, efficient, and scalable web applications. I have experience working with technologies such as Angular, Symfony, and others to develop end-to-end solutions that are both visually appealing and high-performing.
-
-I’m always looking to deepen my expertise in web development, and I continuously explore new frameworks, libraries, and methodologies to stay at the cutting edge of the industry.
-
 ## Embedded Systems & Electronics 🤖
 I also have a passion for **embedded systems** and **electronics**. I enjoy experimenting with Arduino and building small-scale hardware projects. Whether it's programming microcontrollers or diving into circuit design, I find the world of electronics both fascinating and rewarding.
-
-## Continuous Learning 🔤
-I am also working on improving my **English** skills, as I believe mastering communication is key for collaborating with an international community of developers. Every day, I’m getting better at both written and spoken English, and I really enjoy learning through practice and real-world applications.
 
 ### Credits
 
