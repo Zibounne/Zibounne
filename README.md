@@ -7,13 +7,13 @@ Welcome to my GitHub!🚀 I’m a passionate learner who loves continuous growth
 🎯 My goal: master best practices in development and continually push my limits.<br><br>
 => Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📘!
 
+## Algorithms 📟
+One of my favorite activities is tackling **algorithmic** challenges on platforms like **Codewars**. I love working on algorithms and sharpening my problem-solving skills. This continuous practice helps me grow as a developer and keeps me sharp for tackling complex problems in my projects.
+
 ## Full Stack Web Developer 💻
 As a **Full Stack Web Developer**, I specialize in building dynamic, efficient, and scalable web applications. I have experience working with technologies such as Angular, NestJS, and others to develop end-to-end solutions that are both visually appealing and high-performing.
 
 I’m always looking to deepen my expertise in web development, and I continuously explore new frameworks, libraries, and methodologies to stay at the cutting edge of the industry.
-
-## Algorithms 📟
-One of my favorite activities is tackling **algorithmic** challenges on platforms like **Codewars**. I love working on algorithms and sharpening my problem-solving skills. This continuous practice helps me grow as a developer and keeps me sharp for tackling complex problems in my projects.
 
 ## Embedded Systems & Electronics 🤖
 I also have a passion for **embedded systems** and **electronics**. I enjoy experimenting with Arduino and building small-scale hardware projects. Whether it's programming microcontrollers or diving into circuit design, I find the world of electronics both fascinating and rewarding.
