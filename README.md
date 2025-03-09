@@ -4,10 +4,8 @@ Welcome to my GitHub!🚀 I’m a passionate learner who loves continuous growth
 
 🌱 Currently working on **web** projects, gaining knowledge and expertise in web.<br>
 🛠 Always looking to take on new **challenges** and learn exciting technologies.<br>
-🎯 My goal: master best practices in development and continually push my limits.
-Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📘!
-
-🚀 Let's code something awesome together!
+🎯 My goal: master best practices in development and continually push my limits.<br><br>
+=> Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📘!
 
 ## Full Stack Web Developer 💻
 As a **Full Stack Web Developer**, I specialize in building dynamic, efficient, and scalable web applications. I have experience working with technologies such as Angular, NestJS, and others to develop end-to-end solutions that are both visually appealing and high-performing.
