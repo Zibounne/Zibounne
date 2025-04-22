@@ -5,7 +5,7 @@ Welcome to my GitHub!🚀 I’m a passionate learner who loves continuous growth
 🌱 Currently working on **web** projects, gaining knowledge and expertise in web.<br>
 🛠 Always looking to take on new **challenges** and learn exciting technologies.<br>
 🎯 My goal: master best practices in development and continually push my limits.<br><br>
-=> Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📘!
+=> Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📕!
 
 ## Credits
 
