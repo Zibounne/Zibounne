@@ -2,8 +2,8 @@
 
 Welcome to my GitHub!🚀 I’m a passionate learner who loves continuous growth and **solving complex challenges** through code, including in the field of **development**. My goal is to create solutions that blend creativity, efficiency, and security while constantly improving my skills. I dedicate my time to exploring new **challenges**, and contributing to **open-source** projects.
 
-🌱 Currently working on **C++** projects, gaining knowledge and expertise in development.<br>
-🛠 Always looking to take on new **challenges**.<br>
+🌱 Currently working on **projects**, gaining knowledge and expertise in development.<br>
+🛠 Always looking to take on new **challenges**, especially by sharpening my **algorithm** skills.<br>
 🎯 My goal: master best practices in development and continually push my limits.<br>
 
 => Feel free to contact with me via [**Gmail**](mailto:tarik.dahhane.pro@gmail.com) ✉️, or check out my [**Portfolio**](https://zibounne.github.io/Portfolio/)📕!
